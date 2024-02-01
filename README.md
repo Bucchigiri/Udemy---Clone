@@ -20,7 +20,7 @@ The current version of the project is a static representation and is not yet opt
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your preferred web browser to explore the Udemy clone.
 
-OR Click on the link **[here]()** to view the same.
+OR Click on the link **[here](https://bucchigiri.github.io/Udemy-Clone/)** to view the same.
 
 ## Upcoming Features
 
