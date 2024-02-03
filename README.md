@@ -4,7 +4,7 @@ This repository contains the source code for a Udemy clone website created using
 
 ## Overview
 
-The Udemy clone is a non-responsive prototype that emulates the basic structure and design elements of the popular online learning platform, Udemy. It includes key features such as course listings, individual course pages, and a simple navigation system.
+The Udemy clone is a minimalistic responsive prototype that emulates the basic structure and design elements of the popular online learning platform, Udemy in PC as well as optimised for Mobile. It includes key features such as course listings, individual course pages, and a simple navigation system.
 
 ## Technologies Used
 
